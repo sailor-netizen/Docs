@@ -1,4 +1,9 @@
 # Funded Accounts
+> Project Quant — Source of Truth  
+> Moondev funding program terms, requirements, and comparison to traditional prop firms  
+> Derived from `Inspo/Transcripts/Moondev/`
+
+---
 
 ## Moondev Funding Program
 
@@ -101,6 +106,8 @@ Quant App is described as bumpers on a bowling lane — the trader keeps their o
 
 ---
 
-## Source Transcripts
+---
 
-- `All right. So, get funded $1,000 pl.txt` (primary — full program terms, requirements, comparison to prop firms)
+*Last updated: 2026-05-31*  
+*Source: Moondev transcripts — `Inspo/Transcripts/Moondev/`*  
+*Primary sessions: "All right. So, get funded $1,000 pl..."*

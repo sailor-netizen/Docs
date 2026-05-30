@@ -1,4 +1,9 @@
 # HIP3 Strategies and Oil Drift
+> Project Quant — Source of Truth  
+> HIP3 stocks/commodities on Hyperliquid, data retention limits, the after-hours oil drift basket  
+> Derived from `Inspo/Transcripts/Moondev/`
+
+---
 
 ## What is HIP3
 
@@ -111,9 +116,6 @@
 
 ---
 
-## Source Transcripts
-
-- `I had six clawed codes here as you.txt` (primary — basket strategy, infrastructure, oil thesis, data retention)
-- `and oil. So, this is what's neat in.txt` (HIP3 oil volume, funding rate signal)
-- `I'm really excited for Hyperlid now.txt` (HIP3 as diversification from crypto bear market)
-- `Wall Street doesn't have this and I.txt` (funding rate scanner, HIP3 sentiment)
+*Last updated: 2026-05-31*  
+*Source: Moondev transcripts — `Inspo/Transcripts/Moondev/`*  
+*Primary sessions: "I had six clawed codes here as you...", "and oil. So, this is what's neat in...", "I'm really excited for Hyperlid now...", "Wall Street doesn't have this and I..."*

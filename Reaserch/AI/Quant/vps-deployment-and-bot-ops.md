@@ -1,4 +1,9 @@
 # VPS Deployment and Bot Operations
+> Project Quant — Source of Truth  
+> SSH workflow, Cherry Servers VPS, multi-bot process management with `screen`, monitoring  
+> Derived from `Inspo/Transcripts/Moondev/`
+
+---
 
 ## Overview
 
@@ -149,8 +154,8 @@ Bot design should default to **limit orders** with configurable discount (e.g., 
 
 ---
 
-## Source Transcripts
+---
 
-- `So, I want to show you step by step (contobo instead of cherry servers).txt` (primary — full VPS setup walkthrough, screen commands, Cherry Servers)
-- `I'm going to show you step by step.txt` (SSH moon-dash reference, bot deployment workflow)
-- `I had six clawed codes here as you.txt` (server infrastructure, API monitoring, SQLite on-demand refactor, WebSocket rate limits)
+*Last updated: 2026-05-31*  
+*Source: Moondev transcripts — `Inspo/Transcripts/Moondev/`*  
+*Primary sessions: "So, I want to show you step by step (contobo instead of cherry servers)...", "I'm going to show you step by step...", "I had six clawed codes here as you..."*

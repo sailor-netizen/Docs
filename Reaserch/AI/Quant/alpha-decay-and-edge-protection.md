@@ -1,4 +1,9 @@
 # Alpha Decay and Edge Protection
+> Project Quant — Source of Truth  
+> Why edges decay, why quants stay secretive, and how to protect an edge over time  
+> Derived from `Inspo/Transcripts/Moondev/`
+
+---
 
 ## Core Concept
 
@@ -73,8 +78,6 @@ The three-step process designed to find and validate edges before risking capita
 
 ---
 
-## Source Transcripts
-
-- `Can you go explain Alpha Decay for.txt`
-- `I had six clawed codes here as you.txt` (RBI framework detail, multi-bot stacking)
-- `Today I'm going to show you step by.txt` (Poly Market bot build, RBI walkthrough)
+*Last updated: 2026-05-31*  
+*Source: Moondev transcripts — `Inspo/Transcripts/Moondev/`*  
+*Primary sessions: "Can you go explain Alpha Decay for...", "I had six clawed codes here as you...", "Today I'm going to show you step by..."*

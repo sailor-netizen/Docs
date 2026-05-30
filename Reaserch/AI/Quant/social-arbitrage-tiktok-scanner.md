@@ -1,4 +1,9 @@
 # Social Arbitrage — TikTok Scanner
+> Project Quant — Source of Truth  
+> Trading consumer trends before Wall Street; the OpenClaw TikTok/Twitter signal scanner  
+> Derived from `Inspo/Transcripts/Moondev/`
+
+---
 
 ## Concept Origin
 
@@ -134,8 +139,8 @@ Multiple e-commerce operators noted the scanner is useful for **product trend di
 
 ---
 
-## Source Transcripts
+---
 
-- `People have asked me about this bil.txt` (primary — full tutorial, code walkthrough, Chris Camillo background, cron job setup, keyword list, confidence scoring)
-- `So, my buddy Art just dropped this.txt` (OpenClaw use case positioning, Twitter alpha scanner, social arb vs. terminal alternatives)
-- `So, I have now verified that this d.txt` (MiniMax 2.5 cost reduction experiment, OpenClaw model comparison)
+*Last updated: 2026-05-31*  
+*Source: Moondev transcripts — `Inspo/Transcripts/Moondev/`*  
+*Primary sessions: "People have asked me about this bil...", "So, my buddy Art just dropped this...", "So, I have now verified that this d..."*
