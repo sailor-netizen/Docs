@@ -1,3 +1,5 @@
+## websites:
+
 https://animate-ui.com/
 https://reown.com/
 https://www.radix-ui.com/primitives
@@ -81,4 +83,18 @@ https://api.contabo.com/
 https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiM3oSl6uKUAxU4EXsHHVZINFsYACICCAEQABoCdG0&co=1&ase=2&gclid=Cj0KCQjwlerQBhDMARIsAB16H-VycvsIqxLqczuyZA7Xrri4qU7r1eeER9sszfqilXSXX5mZl64-rBcaAlWZEALw_wcB&cid=CAASugHkaIz-XjA_IiWG3LDXhyUXPaTC6Opg500bJX9jmxH9Z8k1pF1SOevJS4hVWosSlNzFIOsQYqYvRvX50LY99lTlupJ0yseMR47WTP_oUj3KQVd0wLfaembyGCkO08RrU78QlCTBPNx5SPMmjeHhzFAr2mXTiU-QaDLDtPqygd5I1VDJiAn7MSkwrywD1HWIlM-xtJezMkWYeiwPFbtsXlsXRnakbzq4WxG7qx9XgjYnOydgP9lQaI4y_tc&cce=2&category=acrcp_v1_32&sig=AOD64_0CgpkVGGk4kqX5GdjyE2GB2cwDfQ&q&nis=4&adurl=https://contabo.com/en/contabo-cli/?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dbrand-pmax-global%26utm_term%3D%26utm_content%3D%26gad_source%3D1%26gad_campaignid%3D22692290604%26gbraid%3D0AAAAAD_Qy-eYQMD2O9kI8UwdGlNTKJw7c%26gclid%3DCj0KCQjwlerQBhDMARIsAB16H-VycvsIqxLqczuyZA7Xrri4qU7r1eeER9sszfqilXSXX5mZl64-rBcaAlWZEALw_wcB&ved=2ahUKEwi2tvuk6uKUAxVMp1YBHWXYAfAQ0Qx6BAgXEAE
 https://github.com/contabo/cntb
 https://github.com/petzsch/contabo-php-client
+
+## MCP: Servers
 https://contabo.com/blog/how-to-secure-apis-on-your-server/
+https://github.com/tinyfish-io/agentql
+https://github.com/agentset-ai/agentset
+https://github.com/armorwallet
+https://github.com/axiomhq/mcp-server-axiom
+https://betterstack.com/
+https://boost.space/mcp
+https://coinstats.app/api-docs/mcp/connecting/
+https://coinmarketcap.com/api/mcp/
+https://github.com/coinexcom/coinex_mcp_server
+https://www.commonroom.io/docs/using-common-room/mcp-server/
+https://github.com/firecrawl/firecrawl-mcp-server
+https://docs.maestro.dev/get-started/maestro-mcp
