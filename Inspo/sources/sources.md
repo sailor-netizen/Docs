@@ -98,3 +98,9 @@ https://github.com/coinexcom/coinex_mcp_server
 https://www.commonroom.io/docs/using-common-room/mcp-server/
 https://github.com/firecrawl/firecrawl-mcp-server
 https://docs.maestro.dev/get-started/maestro-mcp
+
+## agent-ops / mission-control:
+
+# "10 Hermes Agent Hacks for a 24/7 Assistant" — mission control, kanban for agent tasks,
+# cron jobs, slash-goals, sub-agent teams, Telegram topics, skills/SOPs, webhooks, specialized agents.
+# Transcript + Quant mapping: Inspo/Transcripts/AgentOps/
